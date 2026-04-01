@@ -1,0 +1,4 @@
+baseURL = "https://narzas.github.io/"
+languageCode = "ko-kr"
+title = "My Blog"
+theme = "PaperMod"
